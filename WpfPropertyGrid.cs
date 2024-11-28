@@ -4,7 +4,6 @@
 // WpfPropertyGrid - By Jaime Olivares
 // July 11, 2011
 // Article site: http://www.codeproject.com/KB/grid/WpfPropertyGrid.aspx
-// Author site: www.jaimeolivares.com
 // License: Code Project Open License (CPOL)
 //
 // *********************************************************************
