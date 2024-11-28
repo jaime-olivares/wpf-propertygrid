@@ -68,7 +68,7 @@
     </Compile>
     <Compile Include="CustomEditor.cs" />
     <Compile Include="DemoClasses.cs" />
-    <Compile Include="WpfPropertyGrid.cs" />
+    <Compile Include="../src/WpfPropertyGrid.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
