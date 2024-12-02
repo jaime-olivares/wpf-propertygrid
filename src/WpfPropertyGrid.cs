@@ -2,9 +2,8 @@
 // PLEASE DO NOT REMOVE THIS DISCLAIMER
 //
 // WpfPropertyGrid - By Jaime Olivares
-// July 11, 2011
-// Article site: http://www.codeproject.com/KB/grid/WpfPropertyGrid.aspx
-// License: Code Project Open License (CPOL)
+// Copyright (c) 2011 - 2024
+// Code repository: https://github.com/jaime-olivares/wpf-propertygrid
 //
 // *********************************************************************
 
