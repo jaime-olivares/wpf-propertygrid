@@ -6,7 +6,7 @@ Repackaging of Workflow Foundation's property grid for general use in WPF applic
 ## Disclaimer
 The following implementation was originally developed in 2010 and published in CodeProject. After so many years, it seems that it still attracts interest and a few stars, so I decided to move the entire Readme to GitHub.
 
-I no longer maintain the source code or advise on how to implement it. However, I encourage active users to help others in the Issues section.
+I no longer maintain the source code or advise on how to implement it. However, I encourage active users to help others in the Issues section. Pull Requests may be accepted if they have broad utility.
 
 ## Introduction
 
